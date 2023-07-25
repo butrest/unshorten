@@ -28,3 +28,10 @@ Simply request `https://unshorten.but.rest/ANY-SHORT-URL-HERE`
 4.  After changes made, send a [PR](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests)
 
 > Released under [MIT license](LICENSE)
+
+## TO-DO
+
+- [ ] Add direct redirect
+- [ ] Support trash XML
+- [ ] Support one line info
+
