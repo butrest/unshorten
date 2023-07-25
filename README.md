@@ -34,4 +34,5 @@ Simply request `https://unshorten.but.rest/ANY-SHORT-URL-HERE`
 - [ ] Add direct redirect
 - [ ] Support trash XML
 - [ ] Support one line info
+- [ ] Use [CF Cache](https://developers.cloudflare.com/workers/examples/cache-api/)
 
