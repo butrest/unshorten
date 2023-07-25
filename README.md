@@ -1,4 +1,8 @@
-# unshorten simple api
+# UNSHORTEN SIMPLE API
+
+![Static Badge](https://img.shields.io/badge/Cloudflare-Workers-ccc?style=for-the-badge&logo=cloudflare&logoColor=F38020&color=orange)
+![Static Badge](https://img.shields.io/badge/TypeScript-%233178C6?style=for-the-badge&logo=typescript&logoColor=fff)
+![Static Badge](https://img.shields.io/badge/PhpStorm-6B57FF?style=for-the-badge&logo=phpstorm&logoColor=fff)
 
 ## Using
 
