@@ -35,7 +35,7 @@ Released under `MIT license <LICENSE>`_
 TO-DO
 ~~~~~
 
-[ ] Add direct redirect
+[ ] unchecked # [checkbox:unchecked]
 [ ] Support trash XML
 [ ] Support one line info
 [ ] Use `CF Cache <https://developers.cloudflare.com/workers/examples/cache-api/>`_
