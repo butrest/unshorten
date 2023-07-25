@@ -16,6 +16,7 @@ const errorResponse = (requestedUrl: string, error: string): Response => {
 		success: false,
 		resolved_url: '',
 		error: error,
+		info: 'Visit https://but.rest for magic information.',
 	});
 };
 
