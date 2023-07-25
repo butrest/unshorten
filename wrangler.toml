@@ -1,5 +1,5 @@
 name = "unshorten"
-main = "src/worker.ts"
+main = "src/main.ts"
 compatibility_date = "2023-07-24"
 
 [placement]
