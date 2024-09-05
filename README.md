@@ -16,9 +16,7 @@ Simply request `https://unshorten.but.rest/ANY-SHORT-URL-HERE`
 {
   "requested_url": "https://tinyurl.com/AsiaProblem",
   "success": true,
-  "resolved_url": "https://en.wikipedia.org/wiki/Slavery_in_Asia",
-  "usage_count": 1,
-  "remaining_calls": 9
+  "resolved_url": "https://en.wikipedia.org/wiki/Slavery_in_Asia"
 }
 ```
 
